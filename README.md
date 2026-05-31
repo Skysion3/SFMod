@@ -2,10 +2,11 @@
 > [!CAUTION]
 > This project is incomplete and not ready for general use.
 
-Enhancement package for CS:GO, but with a ScaleformUI HUD
-
-# Join the Discord!
+## Join the Discord!
 [![Discord](https://img.shields.io/discord/1436143382723297350?label=Discord&logo=discord&logoColor=white&color=5865F2)](https://discord.gg/nVFFMC9QyV)
+
+## What is this?
+An enhancement package for CS:GO that adds some custom stuff and a Scaleform 4.2 hud remake!
 
 ## Current features:
 
