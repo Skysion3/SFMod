@@ -16,6 +16,7 @@ An enhancement package for CS:GO that adds some custom stuff and a Scaleform 4.2
 - Added flo's csgo_gc inventory editor with the base install for easily adding skins without an external download.
 
 ### UI changes:
+- Scaleform hud remake!
 - Removed the CS:GO 360 stats button, News tab and other menu elements that were deprecated when CS:GO intially went offline.
 - Removed Danger Zone Button from the "Practice with Bots" tab due to the gamemode not being functional offline.
 - Modified some UI strings.
