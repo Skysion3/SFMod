@@ -1,4 +1,7 @@
 # GRModSF
+> [!CAUTION]
+> This project is incomplete and not ready for general use.
+
 Enhancement package for CS:GO, but with a ScaleformUI HUD
 
 # Join the Discord!
